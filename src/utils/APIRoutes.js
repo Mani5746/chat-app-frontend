@@ -1,4 +1,4 @@
-export const host="https://chat-app-backend-production-f896.up.railway.app";
+export const host="https://64d5c5bde212112aa98e66c7--chipper-dolphin-f48073.netlify.app";
 export const registerRoute=`${host}/api/auth/register`;
 export const loginRoute=`${host}/api/auth/login`;
 export const setAvatarRoute=`${host}/api/auth/setAvatar`;
